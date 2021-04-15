@@ -25,9 +25,9 @@
 •  Mirar Animé
 <hr></hr> 
 <br>
-<p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lucas&hide=contribs,prs&theme=buefy&show_icons=true" alt="My Github Stats">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas&layout=compact&theme=buefy" alt="My Github Stats">
+<p >
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lucas&hide=contribs,prs&theme=buefy&show_icons=true" alt="My Github Stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas&layout=compact&theme=buefy" alt="My Github Stats">
 </p>
 <br>
 
