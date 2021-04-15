@@ -8,7 +8,7 @@
 
 #### Habilidades 💥:
 
-<img align="right" src="https://i.giphy.com/RThN0hOS2GO4M.gif" alt="Coder" width="400" height="250" />
+/*<img align="right" src="https://i.giphy.com/RThN0hOS2GO4M.gif" alt="Coder" width="400" height="250" />*/
 
 - HTML
 - CSS
