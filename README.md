@@ -1,6 +1,5 @@
 <h1 align="center">Hola, mi nombre es Lucas. Un placer conocerte.</h1>
 <h3 align="center">Actualmente aprendiendo un poco de todo.</h3>
-<hr></hr>
 
 # Sobre mí 💬:
 
