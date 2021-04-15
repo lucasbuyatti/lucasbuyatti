@@ -1,4 +1,5 @@
-<h1><b>Hola 👋 soy Lucas.</b></h1>
+<hr></hr>
+### Hola, mi nombre es Lucas. Un placer conocerte.
 <hr></hr> 
 <br>
 <h3 align="center">Actualmente aprendiendo un poco de todo.</h3>
@@ -11,20 +12,17 @@
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
-### - Habilidades:
-• HTML
-• CSS
-• JavaScript
-• Python
-• C++
-• C#
+### 💪 Habilidades:
+• HTML <br>
+• CSS <br>
+• JavaScript <br>
+• Python <br>
+• C++ <br>
+• C# <br>
 
-### - Hobbies : 
-• Adicción a los Juegos
+### 💻 Hobbies : 
+• Adicción a los Juegos <br>
 • Mirar Animé
-</br>
-</br>
-</br>
 <hr></hr> 
 
 <p>
