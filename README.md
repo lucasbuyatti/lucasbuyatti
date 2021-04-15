@@ -8,7 +8,7 @@
 
 #### Habilidades 💥:
 
-<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="400" height="250" />
+<img align="right" src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="400" height="250" />
 
 
 - HTML
