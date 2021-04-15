@@ -32,7 +32,7 @@
 <br>
 
 ## Puede contactarme en: 
-*  Twitter: https://twitter.com/lucasbuyatti_
+*  Twitter: https://twitter.com/lucashbuyatti
 *  Instagram: https://instagram.com/buyatti.lucas
 
 
