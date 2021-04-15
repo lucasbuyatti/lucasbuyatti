@@ -1,6 +1,4 @@
-<hr></hr>
- <h1>Hola, mi nombre es Lucas. Un placer conocerte.</h1>
-<hr></hr> 
+<h1>Hola, mi nombre es Lucas. Un placer conocerte.</h1>
 <br>
 <h3 align="center">Actualmente aprendiendo un poco de todo.</h3>
 <br>
@@ -13,7 +11,7 @@
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 ### 💪 Habilidades:
-•  ‎HTML <br>
+•  HTML <br>
 •  CSS <br>
 •  JavaScript <br>
 •  Python <br>
