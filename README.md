@@ -26,7 +26,7 @@
   <img align="left" alt="Lucas GitHub" width="22px" src="https://img.icons8.com/ios-glyphs/30/000000/github.png" />
 </a>
 <a href="Lucass#6250" target="_BLANK">
-  <img align="left" alt="Lucas Discord" width="22px" src="https://img.icons8.com/ios-filled/30/000000/discord-logo.png" />
+  <img align="left" alt="Lucas Discord" width="25px" src="https://img.icons8.com/ios-filled/30/000000/discord-logo.png" />
 </a>
 
 
