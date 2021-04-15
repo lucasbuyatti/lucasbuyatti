@@ -29,7 +29,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=lucas&hide=contribs,prs&theme=buefy&show_icons=true" alt="My Github Stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas&layout=compact&theme=buefy" alt="My Github Stats">
 </p>
-
+<br>
 ## Puede contactarme en: 
 * ✨ Twitter: https://twitter.com/lucasbuyatti
 * ✨ Instagram: https://instagram.com/buyatti.lucas
