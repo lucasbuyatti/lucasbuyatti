@@ -8,7 +8,7 @@
 
 #### Habilidades 💥:
 
-<img align="right" src="https://giphy.com/gifs/reaction-BmmfETghGOPrW" alt="Math" width="400" height="250" />
+<img align="right" src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif" alt="Math" width="400" height="250" />
 
 - HTML
 - CSS
