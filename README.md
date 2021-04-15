@@ -1,4 +1,4 @@
-# Hola, mi nombre es Lucas. Encantado en conocerte.
+## Hola, mi nombre es Lucas. Encantado en conocerte.
 
 ### Sobre mí 💬:
 
