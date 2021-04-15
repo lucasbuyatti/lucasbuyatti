@@ -21,7 +21,7 @@
 *  C# <br>
 
 ## - Hobbies: 
-*  Adicción a los Juegos <br>
+*  Jugar jueguitos <br>
 *  Mirar Animé
 <hr></hr> 
 <br>
