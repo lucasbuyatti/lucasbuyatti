@@ -1,4 +1,8 @@
-<h1><b>Hi! 👋 soy Lucas.</b></h1>
+<h1><b>Hola! Soy Lucas.</b></h1>
 <hr></hr> 
-<h3>Actualmente aprendiendo un poco de todo.</h3>
-<p align="center"><img width=50% src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg"></p>
+<h3 align="center">Actualmente aprendiendo un poco de todo.</h3>
+
+<p align="center">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lucasbuyatti&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="My Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas&layout=compact&theme=radical" alt="My Github Stats">
+</p>
