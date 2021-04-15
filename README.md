@@ -1,4 +1,8 @@
-# Hola, mi nombre es Lucas bienvenido a mi GITHUB
+# Hola, mi nombre es Lucas. Encantado en conocerte.
+
+## Sobre mí 💬:
+
+- Soy un chico de 17 años fanático de los Juegos y la Programación.
 
 
 
@@ -19,6 +23,10 @@
   <img align="left" alt="Lucas Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 <a href="https://github.com/lucasbuyatti" target="_BLANK">
-  <img align="left" alt="Lucas GITHUB" width="22px" src="https://img.icons8.com/ios-glyphs/30/000000/github.png" />
+  <img align="left" alt="Lucas GitHub" width="22px" src="https://img.icons8.com/ios-glyphs/30/000000/github.png" />
 </a>
+<a href="Lucass#6250" target="_BLANK">
+  <img align="left" alt="Lucas Discord" width="22px" src="https://img.icons8.com/ios-filled/30/000000/discord-logo.png" />
+</a>
+
 
