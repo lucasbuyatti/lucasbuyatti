@@ -1,8 +1,28 @@
 # Hola, mi nombre es Lucas. Encantado en conocerte.
 
-## Sobre mí 💬:
+### Sobre mí 💬:
 
 - Soy un chico de 17 años fanático de los Juegos y la Programación.
+
+
+
+#### Habilidades 💥:
+
+<img align="right" src="https://i.giphy.com/RThN0hOS2GO4M.gif" alt="Coder" width="400" height="250" />
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- C++
+- C#
+
+#### Hobbies 🍻:
+
+- Jugar juegos
+- Mirar peliculas, series y animé
+- Dormir
+
 
 
 
@@ -28,5 +48,9 @@
 <a href="Lucass#6250" target="_BLANK">
   <img align="left" alt="Lucas Discord" width="25px" src="https://img.icons8.com/ios-filled/30/000000/discord-logo.png" />
 </a>
+
+<hr></hr>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas&theme=buefy&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas&theme=buefy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
