@@ -8,7 +8,7 @@
 
 #### Habilidades 💥:
 
-/*<img align="right" src="https://i.giphy.com/RThN0hOS2GO4M.gif" alt="Coder" width="400" height="250" />*/
+<img align="right" src="https://giphy.com/gifs/reaction-BmmfETghGOPrW" alt="Math" width="400" height="250" />
 
 - HTML
 - CSS
@@ -54,3 +54,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas&theme=graywhite&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas&theme=graywhite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+
+<!--<img align="right" src="https://i.giphy.com/RThN0hOS2GO4M.gif" alt="Coder" width="400" height="250" />
