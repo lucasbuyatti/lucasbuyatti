@@ -21,8 +21,6 @@
 <hr></hr> 
 <br>
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lucasbuyatti&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="My Github Stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="My Github Stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=lucas&hide=contribs,prs&theme=buefy&show_icons=true" alt="My Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas&layout=compact&theme=buefy" alt="My Github Stats">
 </p>
-
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=majoledesma&hide=contribs,prs&theme=buefy&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majoledesma&layout=compact&theme=buefy)](https://github.com/majoledesma/github-readme-stats)
