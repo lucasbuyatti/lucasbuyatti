@@ -1,22 +1,9 @@
-# Hola, mi nombre es Lucas. Encantado en conocerte.
-
-### Estudiando de todo 😵
-
-### Sobre mí 💬:
-### - Soy un chico de 18 años fanático de los Videojuegos, la Programación y el Animé.
-### - Habilidades:
-*  HTML
-*  CSS 
-*  JavaScript 
-*  Python 
-*  C++ 
-*  C# 
-### - Hobbies: 
-*  Jugar jueguitos <br>
-*  Mirar Animé
-
-### Puede contactarme en: 
-*  **Twitter**: https://twitter.com/lucashbuyatti
-*  **Instagram**: https://instagram.com/buyatti.lucas
+# Hola, mi nombre es Lucas bienvenido a mi GITHUB
 
 
+
+
+<a href="https://twitter.com/thewhiteh4t">*Twitter</a> <br>
+<a href="https://www.youtube.com/c/thewhiteh4t">*YouTube</a> <br>
+<a href="https://t.me/thewhiteh4t">*Telegram</a> <br>
+<a href="https://www.linkedin.com/in/lohityapushkar">*LinkedIn</a> 
