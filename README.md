@@ -1,5 +1,5 @@
 <hr></hr>
-### Hola, mi nombre es Lucas. Un placer conocerte.
+ <h1>Hola, mi nombre es Lucas. Un placer conocerte.</h1>
 <hr></hr> 
 <br>
 <h3 align="center">Actualmente aprendiendo un poco de todo.</h3>
