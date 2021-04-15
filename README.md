@@ -27,7 +27,7 @@
 
 
 
-## 👉 Puedes contactarme en: 👇
+## Puedes contactarme en: 👇
 <a href="https://twitter.com/lucashbuyatti" target="_BLANK">
   <img align="left" alt="Lucas Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
