@@ -1,4 +1,4 @@
-<h1 align="center">Hola, mi nombre es Lucas. Un placer conocerte.</h1>
+<h1 align="center">Hola, mi nombre es Lucas. Encantado en conocerte.</h1>
 <br>
 <hr>
 <h3 align="center">Actualmente aprendiendo un poco de todo.</h3>
