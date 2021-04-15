@@ -1,7 +1,5 @@
-<h1>Hola, mi nombre es Lucas. Un placer conocerte.</h1>
-<br>
+<h1 align="center">Hola, mi nombre es Lucas. Un placer conocerte.</h1>
 <h3 align="center">Actualmente aprendiendo un poco de todo.</h3>
-<br>
 <hr></hr>
 
 # Sobre mí 💬:
@@ -22,7 +20,7 @@
 •  Adicción a los Juegos <br>
 •  Mirar Animé
 <hr></hr> 
-
+<br>
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=lucasbuyatti&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="My Github Stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="My Github Stats">
