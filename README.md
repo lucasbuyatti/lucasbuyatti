@@ -1,5 +1,10 @@
 <h1 align="center">Hola, mi nombre es Lucas. Un placer conocerte.</h1>
+<br>
+<hr>
 <h3 align="center">Actualmente aprendiendo un poco de todo.</h3>
+<hr>
+<br>
+
 
 # Sobre mí 💬:
 
@@ -24,3 +29,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=lucas&hide=contribs,prs&theme=buefy&show_icons=true" alt="My Github Stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas&layout=compact&theme=buefy" alt="My Github Stats">
 </p>
+
+## Puede contactarme en: 
+* ✨ Twitter: https://twitter.com/lucasbuyatti
+* ✨ Instagram: https://instagram.com/buyatti.lucas
