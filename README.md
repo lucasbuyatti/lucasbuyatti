@@ -8,7 +8,7 @@
 
 # Sobre mí 💬:
 
-## - Soy una persona de 18 años fanático de los Videojuegos, la Programación y el Animé.
+## - Soy una chico de 18 años fanático de los Videojuegos, la Programación y el Animé.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
