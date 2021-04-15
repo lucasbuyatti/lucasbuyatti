@@ -31,3 +31,8 @@
 </p>
 <br>
 
+## Puede contactarme en: 
+*  Twitter: https://twitter.com/lucasbuyatti
+*  Instagram: https://instagram.com/buyatti.lucas
+
+
