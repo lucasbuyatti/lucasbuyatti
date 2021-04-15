@@ -1,2 +1,2 @@
-<h1 style="color:black;">Hi! 👋 soy Lucas.</h1>
+<h1><b>Hi! 👋 soy Lucas.</b></h1>
 <br>
