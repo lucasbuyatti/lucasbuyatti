@@ -26,8 +26,8 @@
 <hr></hr> 
 <br>
 <p >
-<img src="https://github-readme-stats.vercel.app/api?username=Lucas&show_icons=true" alt="My Github Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas&layout=compact" alt="My Github Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Lucas&theme=dark&show_icons=true" alt="My Github Stats"> <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas&theme=dark&layout=compact" alt="My Github Stats">
 </p>
 <br>
 
