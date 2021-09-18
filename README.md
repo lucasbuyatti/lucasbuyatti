@@ -16,12 +16,14 @@
 - Python
 - C++
 - C#
+- .NET
+ 
 
 #### Hobbies 🍻:
 
 - Jugar juegos
-- Mirar peliculas, series y animé
-- Dormir
+- Mirar peliculas, series
+- No dormir
 
 
 
