@@ -5,6 +5,8 @@
 	
 </div>
 
+<img src="giphy.gif">
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasbuyatti&repo=github-readme-stats&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbuyatti&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
