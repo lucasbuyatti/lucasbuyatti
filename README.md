@@ -4,8 +4,9 @@
 	<br />
 	<a href="https://www.microsoft.com/"><img src="https://img.shields.io/badge/OS-windows-e06c75?style=flat&logo=linux" /></a>
 	<br />
-	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 	
+	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?lucasbuyatti=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
+
 
