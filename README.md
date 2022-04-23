@@ -1,7 +1,7 @@
 <div align="center">
 	<h1>Hi! I'm <a href="https://github.com/lucasbuyatti">Lucas</a> 🐬 !</h1>
 	<div>Software Developer, well not yet</div>
-	<a href="https://www.youtube.com/watch?v=6g5ZF6DUrHI&ab_channel=ChiefKeefVEVO" target="_blank"><img src="giphy.gif"></a>
+	<a href="https://www.youtube.com/watch?v=6g5ZF6DUrHI&ab_channel=ChiefKeefVEVO" target="_blank"><img src=""></a>
 	<br />
 </div>
 
